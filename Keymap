@@ -1,0 +1,47 @@
+# Project_Planck
+Diy Planck keyboard by LittleChapp
+      .-----------------------------------------------.
+      |Esc| Q | W | E | R | T | Y | U | I | O | P |BSP|
+      |-----------------------------------------------|
+      |Tab| A | S | D | F | G | H | J | K | L | ; | ' |   
+      |-----------------------------------------------|
+      |Sft| Z | X | C | V | B | N | M | , | . | / |Sft|  
+      |-----------------------------------------------|
+      |Ctr|Win|Alt|Lft|Rgt|Spc|Spc|Up |Dwn|F11|F12|Ent|
+      `-----------------------------------------------'
+ 
+ ESC,  Q,    W,    E,    R,    T,   Y,   U,   I,   O,   P,    BSPC,
+ TAB,  A,    S,    D,    F,    G,   H,   J,   K,   L,   SCLN, QUOT,
+ LSFT, Z,    X,    C,    V,    B,   N,   M,  COMM, DOT, SLSH, RSFT,
+ LCTL, LGUI, LALT, LEFT, RGHT, SPC, SPC, UP, DOWN, F11, F12,  ENT,
+
+      .------------------------------------------------.
+      | ` | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |   ||
+      |------------------------------------------------|
+      |Cps|   |   |   |   |   |   |   |   |   |   | " ||   
+      |------------------------------------------------|
+      |   | [ | ] | \ | - | = |   |   | < | > | ? |   ||  
+      |------------------------------------------------|
+      |   |   |   |   |   |   |   |   |   |   |   |   ||
+      `------------------------------------------------'
+
+ GRV,  1,    2,    3,    4,    5,    6,    7,    8,    9,    0,    TRNS,
+ CAPS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, QUOT,
+ TRNS, RBRC, LBRC, BSLS, MINS, EQL,  TRNS, TRNS, COMM, DOT,  SLSH, TRNS,
+ TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,
+
+      .------------------------------------------------.
+      | ~ |   |   |   |   |   |   |   |   |   |   |   || 
+      |------------------------------------------------|
+      |   |F1 |F2 |F3 |F4 |F5 |F6 |F7 |F8 |F9 |F10|   ||
+      |------------------------------------------------|
+      |   |   |   | | | _ | + |   |   |   |   |   |   ||  
+      |------------------------------------------------|
+      |   |   |   |   |   |   |   |   |   |   |   |   ||
+      `------------------------------------------------'
+
+ GRV,  TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,
+ TRNS, F1,   F2,   F3,   F4,   F5,   F6,   F7,   F8,   F9,   F10,  TRNS,
+ TRNS, TRNS, TRNS, BSLS, MINS, EQL,  TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,
+ TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,
+
